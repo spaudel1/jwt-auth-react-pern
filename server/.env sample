@@ -1,0 +1,3 @@
+# rename this '.env sample' file to '.env' file and add any JWTSECRET
+
+JWTSECRET = 
